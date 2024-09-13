@@ -12,7 +12,7 @@ on:
         required: true
         default: 'hello'
       check:
-        description: 't'
+        description: 'this variable is for input'
         type: boolean
         required: true
 
